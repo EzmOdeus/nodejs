@@ -9,9 +9,7 @@ app.get("/vid", (req, res) => {
         "https://media.islamway.net/lessons/582/506_Samer_Qaynqi3.mp4",
       ],
     },
-    {
-      " url": "https://media.islamway.net/lessons/582/506_Samer_Qaynqi3.mp4",
-    },
+  
   );
 });
 app.listen(5000, () => {
